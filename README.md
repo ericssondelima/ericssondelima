@@ -3,6 +3,14 @@
  - Devops Engineer
  - SRE Engineer
  - Devsecops Engineer
+
+
+### Skills
+ - Clouds (AWS,Azure)
+ - Terraform
+ - Kubernetes
+ - Jenkins, Github Actions, Gitlab, Bamboo
+ - SAST, DAST
    
 <!--
 **ericssondelima/ericssondelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
