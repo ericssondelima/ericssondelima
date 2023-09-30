@@ -11,7 +11,8 @@
  - Kubernetes
  - Jenkins, Github Actions, Gitlab, Bamboo
  - SAST, DAST
-   
+ - Python
+ - Go
 <!--
 **ericssondelima/ericssondelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
