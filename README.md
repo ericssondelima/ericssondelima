@@ -10,7 +10,6 @@
  - Terraform
  - Kubernetes
  - Jenkins, Github Actions, Gitlab, Bamboo
- - SAST, DAST
  - Python
  - Go
 <!--
