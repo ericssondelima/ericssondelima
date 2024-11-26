@@ -12,6 +12,9 @@
  - Jenkins, Github Actions, Gitlab, Bamboo
  - Python
  - Go
+
+### Certifications
+ - CEH 
 <!--
 **ericssondelima/ericssondelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
