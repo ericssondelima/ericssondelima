@@ -9,12 +9,13 @@
  - Clouds (AWS,Azure)
  - Terraform
  - Kubernetes
- - Jenkins, Github Actions, Gitlab, Bamboo
+ - Jenkins, AzureDevops, Bamboo
  - Python
  - Go
 
 ### Certifications
- - CEH 
+ - C|EH Ec-Council
+ - AWS Solution Architect Associate
 <!--
 **ericssondelima/ericssondelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
