@@ -10,7 +10,7 @@
 - Cloud Security
 - IaC & Orchestration
 - CI/CD
-- Languages
+- Python
 
 ---
 
