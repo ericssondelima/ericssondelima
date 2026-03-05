@@ -1,32 +1,34 @@
-###  WhoAmi - Ericsson De Lima 
+# Ericsson De Lima
 
- - Devops Engineer
- - SRE Engineer
- - Devsecops Engineer
+**DevOps Engineer** · **SRE** · **DevSecOps**
 
+---
 
-### Skills
- - Clouds (AWS,Azure)
- - Terraform
- - Kubernetes
- - Jenkins, AzureDevops, Bamboo
- - Python
- - Go
+### 🛠️ Skills
 
-### Certifications
- - C|EH Ec-Council
- - AWS Solution Architect Associate
-<!--
-**ericssondelima/ericssondelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Area | Technologies |
+|------|--------------|
+| **Cloud** | AWS, Azure |
+| **IaC & Orchestration** | Terraform, Kubernetes |
+| **CI/CD** | Jenkins, Azure DevOps, Bamboo |
+| **Languages** | Python, Go |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Certifications
+
+- **C\|EH** — EC-Council Certified Ethical Hacker
+- **AWS Solutions Architect** — Associate
+- **CKA** — Certified Kubernetes Administrator *(in progress)*
+
+---
+
+*Automation, reliability & security.*
+
+---
+
+### 🔗 Connect
+
+| | |
+|---|---|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericsson-de-lima-5169845a/) | [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/124153) |
