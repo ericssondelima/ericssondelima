@@ -6,12 +6,11 @@
 
 ### 🛠️ Skills
 
-| Area | Technologies |
-|------|--------------|
-| **Cloud** | AWS, Azure |
-| **IaC & Orchestration** | Terraform, Kubernetes |
-| **CI/CD** | Jenkins, Azure DevOps, Bamboo |
-| **Languages** | Python, Go |
+- Cloud
+- Cloud Security
+- IaC & Orchestration
+- CI/CD
+- Languages
 
 ---
 
